@@ -1,0 +1,1 @@
+This is a test file for worldCount unit test so it calculates amount of words here.
